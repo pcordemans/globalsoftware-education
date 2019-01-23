@@ -26,7 +26,9 @@ These process management challenges include:
 
 ## Multi-site project-based learning
 
-We want to build international teams of student software developers, which tackle a complex problem without having physically meet eachother. Confronted with a technical challenge they should obtain first-hand experience with modern global software development and international collaboration. Students learn to collaborate / plan / coordinate / execute a software project. This should enhance their soft skills, learn modern collaboration tools and experience development methodologies such as Agile, Scrum, etc. Students will also learn how to present their work on the internet, managing a project website, wiki, providing installation instructions for demoonstration purposes, writing user manuals, etc.
+We want to build international teams of student software developers, which tackle a complex problem without having physically meet eachother. Confronted with a technical challenge they should obtain first-hand experience with modern global software development and international collaboration. 
+
+Students learn to collaborate / plan / coordinate / execute a software project. This should enhance their soft skills, learn modern collaboration tools and experience development methodologies such as Agile, Scrum, etc. Students will also learn how to present their work on the internet, managing a project website, wiki, providing installation instructions for demonstration purposes, writing user manuals, etc.
 
 ## Partners
 
